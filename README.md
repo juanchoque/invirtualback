@@ -1,0 +1,1 @@
+Proyecto backend que interactua con base de datos mysql, y produce servicios json para sincronizar datos con app invirtual(db realm)
